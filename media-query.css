@@ -1,0 +1,268 @@
+@media all and (max-width:1000px){
+    .heade div h1{
+        font: 25px;
+    }
+    .nav-menu a{
+        font-size: 10px;
+        padding: 27px 10px;
+    }
+    .header-section h2{
+        font-size: 16px;
+    }
+    .header-section p{
+        font-size: 10px;
+    }
+    .personal-info img{
+        width: 30%;
+    }
+    
+    .personal-info h2{
+        font-size:16px;
+    }
+     .personal-info h3{
+        font-size:16px;
+    }
+     .personal-info p{
+        font-size:16px;
+        max-width: 700px;
+    }
+    .abilities-container{
+        max-width: 600px;
+    }
+    .ability {
+        margin-right: 0;
+    }
+     .ability i{
+        font-size:16px;
+         margin-top: 40px;
+    }
+     .ability p{
+       font-size:16px; 
+    }
+    .work h2{
+       font-size:16px; 
+    }
+    .work-gallery{
+        justify-content: space-around;
+    }
+     .work-gallery img{
+        width: 48%;
+    }
+    .contact h2{
+       font-size:30px; 
+    }
+     form{
+        max-width: 50%;
+    }
+    form .button{
+        font-size: 16px;
+    }
+    form .text{
+        font-size: 16px;
+    }
+}
+}
+}
+
+@media all and (max-width:800px){
+     .heade div h1{
+        font: 25px;
+    }
+    .nav-menu a{
+        font-size: 10px;
+        padding: 27px 10px;
+    }
+    .header-section h2{
+        font-size: 16px;
+    }
+    .header-section p{
+        font-size: 10px;
+    }
+    .personal-info img{
+        width: 30%;
+    }
+    
+    .personal-info h2{
+        font-size:16px;
+    }
+     .personal-info h3{
+        font-size:16px;
+    }
+     .personal-info p{
+        font-size:16px;
+        max-width: 700px;
+    }
+    .abilities-container{
+        max-width: 600px;
+    }
+    .ability {
+        margin-right: 0;
+    }
+     .ability i{
+        font-size:16px;
+         margin-top: 40px;
+    }
+     .ability p{
+       font-size:16px; 
+    }
+    .work h2{
+       font-size:16px; 
+    }
+    .work-gallery{
+        justify-content: space-around;
+    }
+     .work-gallery img{
+        width: 48%;
+    }
+    .contact h2{
+       font-size:30px; 
+    }
+     form{
+        max-width: 50%;
+    }
+    form .button{
+        font-size: 16px;
+    }
+    form .text{
+        font-size: 16px;
+    }
+}
+}
+}
+
+
+@media all and (max-width:600px){
+     .heade div h1{
+        font: 25px;
+    }
+    .nav-menu a{
+        font-size: 10px;
+        padding: 27px 10px;
+    }
+    .header-section h2{
+        font-size: 16px;
+    }
+    .header-section p{
+        font-size: 10px;
+    }
+    .personal-info img{
+        width: 30%;
+    }
+    
+    .personal-info h2{
+        font-size:16px;
+    }
+     .personal-info h3{
+        font-size:16px;
+    }
+     .personal-info p{
+        font-size:16px;
+        max-width: 700px;
+    }
+    .abilities-container{
+        max-width: 600px;
+    }
+    .ability {
+        margin-right: 0;
+    }
+     .ability i{
+        font-size:16px;
+         margin-top: 40px;
+    }
+     .ability p{
+       font-size:16px; 
+    }
+    .work h2{
+       font-size:16px; 
+    }
+    .work-gallery{
+        justify-content: space-around;
+    }
+     .work-gallery img{
+        width: 48%;
+    }
+    .contact h2{
+       font-size:30px; 
+    }
+     form{
+        max-width: 50%;
+    }
+    form .button{
+        font-size: 16px;
+    }
+    form .text{
+        font-size: 16px;
+    }
+}
+}
+}
+
+}
+
+@media all and (max-width:400px){
+     .heade div h1{
+        font: 25px;
+    }
+    .nav-menu a{
+        font-size: 10px;
+        padding: 27px 10px;
+    }
+    .header-section h2{
+        font-size: 16px;
+    }
+    .header-section p{
+        font-size: 10px;
+    }
+    .personal-info img{
+        width: 30%;
+    }
+    
+    .personal-info h2{
+        font-size:16px;
+    }
+     .personal-info h3{
+        font-size:16px;
+    }
+     .personal-info p{
+        font-size:16px;
+        max-width: 700px;
+    }
+    .abilities-container{
+        max-width: 600px;
+    }
+    .ability {
+        margin-right: 0;
+    }
+     .ability i{
+        font-size:16px;
+         margin-top: 40px;
+    }
+     .ability p{
+       font-size:16px; 
+    }
+    .work h2{
+       font-size:16px; 
+    }
+    .work-gallery{
+        justify-content: space-around;
+    }
+     .work-gallery img{
+        width: 48%;
+    }
+    .contact h2{
+       font-size:30px; 
+    }
+    form{
+        max-width: 50%;
+    }
+    form .button{
+        font-size: 16px;
+    }
+    form .text{
+        font-size: 16px;
+    }
+}
+}
+}
+
+}
